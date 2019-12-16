@@ -1,0 +1,31 @@
+prodId_nk,division,prodDesc,price1,price2,unitCost,prodTypeID,typeDesc,buID,buName,buAbbrev
+18,1,Allis Polishing Equipment - 17           ,201.8,176.3,112,3,Polishing Equipment                          ,A,Processing Equipment                         ,Equipment                                    
+38,1,Commendation Fillers - 14,436.3,380,364.8,12,Fillers                                      ,D,Miscellaneous                                ,Misc                                         
+92,2,Behind Tray Supplies - 12     ,170,139,129.3,8,Tray Supplies                                ,B,Disposable Supplies                          ,Supply                                       
+44,2,Birthdays Manufacturing Equipment - 1       ,196.6,173.2,161.1,2,Manufacturing Equipment                      ,A,Processing Equipment                         ,Equipment                                    
+12,1,Chromium Photo Equipment - 19,565.5,457.5,326,1,Photo Equipment                              ,A,Processing Equipment                         ,Equipment                                    
+55,2,Bumblers Plastic Supplies - 15  ,545.3,466.2,447.6,7,Plastic Supplies                             ,B,Disposable Supplies                          ,Supply                                       
+56,2,Allis Polishing Equipment                    ,202,176.3,160.5,3,Polishing Equipment                          ,A,Processing Equipment                         ,Equipment                                    
+56,2,Allis Polishing Equipment                    ,203,176.3,160.5,3,Polishing Equipment                          ,A,Processing Equipment                         ,Equipment                                    
+56,2,Allis Polishing Equipment                    ,204,176.3,160.5,3,Polishing Equipment                          ,A,Processing Equipment                         ,Equipment                                    
+56,2,Allis Polishing Equipment                    ,205,176.3,160.5,3,Polishing Equipment                          ,A,Processing Equipment                         ,Equipment                                    
+56,2,Allis Polishing Equipment                    ,206,176.3,160.5,3,Polishing Equipment                          ,A,Processing Equipment                         ,Equipment                                    
+56,2,Allis Polishing Equipment                    ,207,176.3,160.5,3,Polishing Equipment                          ,A,Processing Equipment                         ,Equipment                                    
+98,2,Barrels Flushing Chemicals                   ,135.1,120,108.4,10,Flushing Chemicals                           ,C,Chemicals                                    ,Chemical                                     
+98,2,Barrels Flushing Chemicals                   ,135.1,121,108.4,10,Flushing Chemicals                           ,C,Chemicals                                    ,Chemical                                     
+98,2,Barrels Flushing Chemicals                   ,135.1,123,108.4,10,Flushing Chemicals                           ,C,Chemicals                                    ,Chemical                                     
+56,3,Allis Polishing Equipment                    ,201.8,180,160.5,3,Polishing Equipment                          ,A,Processing Equipment                         ,Equipment                                    
+56,3,Allis Polishing Equipment                    ,201.8,190,160.5,3,Polishing Equipment                          ,A,Processing Equipment                         ,Equipment                                    
+56,3,Allis Polishing Equipment                    ,201.8,185,160.5,3,Polishing Equipment                          ,A,Processing Equipment                         ,Equipment                                    
+72,2,Anthem Tray Supplies                         ,134.9,112.4,109,8,Tray Supplies New,B,Disposable Supplies                          ,Supply                                       
+25,1,Automobiles Fillers                          ,283.8,227.6,218.5,12,Fillers                                      ,D,Miscellaneous Items,Misc                                         
+98,3,Barrels Flushing Chemicals                   ,135.1,116.6,108.4,10,Flushing Chemicals Old,C,Chemicals                                    ,Chemicals                                    
+94,3,Beliefs Freezing Chemicals                   ,566.6,483.9,454.9,11,Freezing Chemicals                           ,C,Chemical Cleaners,Chemicals                                    
+35,1,Birthdays Manufacturing Equipment            ,196.6,173.2,115,2,Manufacturing Equipment                      ,A,Processing Equipments,Equipment                                    
+29,2,Bluest Fillers                               ,507.4,428.2,398.2,12,Fillers Upgraded,D,Miscellaneous                                ,Misc                                         
+36,2,Bomber Photo Equipment                       ,461.3,400.4,380.4,1,Photo Equipment Plus,A,Processing Equipment                         ,Equipment                                    
+55,3,Bumblers Plastic Supplies                    ,545.3,466.2,447.6,7,Plastic Supplies                             ,B,Disposable Supplies Undisposed,Supplies                                     
+42,3,Carelessly Freezing Chemicals                ,559.7,467.9,425.8,11,Freezing Chemicals XR,C,Chemicals                                    ,Chemicals                                    
+58,2,Characterization Plastic Supplies            ,231.7,185.6,168.9,7,Plastic Supplies Changed,B,Disposable Supplies                          ,Supply                                       
+10,1,Chartable Photo Equipment                    ,410.2,347.4,295,9,Photo Chemicals                              ,C,Chemicals But Not Exactly,Chemicals                                    
+7,3,Commendation Fillers                         ,436.3,380,364.8,12,Fillers                                      ,D,Known Miscellaneous,Misc                                         

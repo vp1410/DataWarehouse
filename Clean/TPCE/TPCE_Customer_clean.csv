@@ -1,0 +1,42 @@
+custID,name,suite,dept,address,city,state,stateName,zip,custtype,custTypeID
+13,Publishing Company Of North America Incorporated  ,Suite 518 ,N/A       ,978 Degrees Street                                ,Heron Bay           ,AL,Alabama                  ,36523,State/Local Gov     ,S
+7,Fedders Corporation                               ,N/A       ,Dept #520 ,3311 Blatantly Circle                             ,Santa Fe Springs    ,CA,California               ,90670,Education           ,E
+2,Motts Holdings Incorporated                       ,N/A       ,N/A       ,1618 Greenland Street                             ,Tallahassee         ,FL,Florida                  ,32304,Education           ,E
+10,Saint Andrews Golf Corporation                    ,N/A       ,N/A       ,8068 Substances Street                            ,North Miami         ,FL,Florida                  ,33261,US Govt             ,F
+6,Fidelity National Corporation Ga                  ,N/A       ,Dept #915 ,11455 Sheaf Drive                                 ,Anthony             ,FL,Florida                  ,32617,State/Local Gov     ,S
+28,Gte Corporation                                   ,N/A       ,Dept #532 ,7196 Heaver Lane                                  ,Winter Garden       ,FL,Florida                  ,34777,State/Local Gov     ,S
+27,Lnr Property Corporation                          ,N/A       ,N/A       ,9382 Demolition Street                            ,College Square      ,IA,Iowa                     ,50613,US Govt             ,F
+11,Synaptic Pharmaceutical Corporation               ,N/A       ,N/A       ,8072 Powerless Street                             ,Bridgeport          ,IL,Illinois                 ,62417,Commercial          ,C
+40,Processing Equipment Corporation                  ,N/A       ,Dept #2   ,29843 Klingon Road                                ,Naperville          ,IL,Illinois                 ,60563,Commercial          ,C
+32,Greenman Technologies Incorporated                ,N/A       ,N/A       ,4910 Liveried Boulevard                           ,Dabney              ,IN,Indiana                  ,47023,US Govt             ,F
+36,Hickory Tech Corporation                          ,N/A       ,Dept #633 ,11119 Periphery Turnpike                          ,Simpson             ,LA,Louisiana                ,71474,US Govt             ,F
+16,Meridian Resources Corporation                    ,N/A       ,Dept #804 ,1977 Symbiotic Turnpike                           ,Fall River          ,MA,Massachusetts            ,02724,Commercial          ,C
+39,Pricellular Corporation                           ,N/A       ,Dept #5   ,10947 Eagle Street                                ,Lisbon Falls        ,ME,Maine                    ,04252,Commercial          ,C
+1,Room Plus Incorporated                            ,Suite 836 ,N/A       ,6037 Ecuadorian Street                            ,Clinton             ,MI,Michigan                 ,49236,Commercial          ,C
+4,Magainin Pharmaceuticals Incorporated             ,N/A       ,Dept #332 ,9138 Planetesimal Lane                            ,Twining             ,MI,Michigan                 ,48766,US Govt             ,F
+14,Newcor Incorporated                               ,Suite 401 ,N/A       ,8717 Involve Drive                                ,Homer               ,MI,Michigan                 ,49245,State/Local Gov     ,S
+38,Seattle Filmworks Incorporated                    ,N/A       ,N/A       ,4958 Dietitian Street                             ,Davis               ,MO,Missouri                 ,63379,US Govt             ,F
+22,Chemfix Technologies Incorporated                 ,Suite 50  ,N/A       ,11533 Wonderingly Drive                           ,Pasadena Hills      ,MO,Missouri                 ,63121,State/Local Gov     ,S
+31,Setron                                            ,N/A       ,Dept #80  ,3085 Breakthrough Drive                           ,Hart                ,MO,Missouri                 ,64865,State/Local Gov     ,S
+8,United Healthcare Corporation                     ,N/A       ,Dept #855 ,675 Hordes Turnpike                               ,Malaga              ,NM,New Mexico               ,88263,Education           ,E
+21,Shaw Brothers                                     ,Suite 371 ,N/A       ,2567 Cardinal Drive                               ,Whiskey Flats       ,NV,Nevada                   ,89415,State/Local Gov     ,S
+30,Pulitzer Publishing Company                       ,Suite 277 ,N/A       ,126 Pathological Circle                           ,Woodbury            ,NY,New York                 ,11797,State/Local Gov     ,S
+18,Scp Pool Corporation                              ,Suite 251 ,N/A       ,755 Leek Street                                   ,Enid                ,OK,Oklahoma                 ,73706,US Govt             ,F
+5,Sterling Financial Corporation Washington         ,N/A       ,Dept #505 ,7258 Meriting Avenue                              ,Portland            ,OR,Oregon                   ,97201,Education           ,E
+17,V.e.v. Sa                                         ,N/A       ,N/A       ,7079 Aspect Circle                                ,Ross Siding         ,PA,Pennsylvania             ,17723,US Govt             ,F
+15,Railamerica Incorporated                          ,N/A       ,N/A       ,576 Stew Turnpike                                 ,Mans De Navarro     ,PR,Puerto Rico              ,00778,Commercial          ,C
+0,Specialty Teleconstructors Incorporated           ,N/A       ,N/A       ,1570 Hordes Drive                                 ,Columbia            ,SC,South Carolina           ,29260,US Govt             ,F
+12,Cohesant Technologies Incorporated                ,N/A       ,Dept #690 ,3334 Eggshell Circle                              ,Oakley              ,SC,South Carolina           ,29461,US Govt             ,F
+25,Liberty Homes Incorporated                        ,N/A       ,N/A       ,3051 Bumblers Lane                                ,Medon               ,TN,Tennessee                ,38356,US Govt             ,F
+35,Integra -- A Hotel & Restaurant Company           ,N/A       ,Dept #822 ,5222 Blazed Street                                ,Parsons             ,TN,Tennessee                ,38363,US Govt             ,F
+26,Firstfed America Bancorp Incorporated             ,N/A       ,Dept #851 ,5656 Settler Street                               ,Ward Prairie        ,TX,Texas                    ,75840,Education           ,E
+34,Emerson Electric Company                          ,N/A       ,N/A       ,1792 Squash Drive                                 ,South Texarkana     ,TX,Texas                    ,75501,Education           ,E
+37,Televideo Incorporated                            ,N/A       ,Dept #793 ,939 Publishers Turnpike                           ,Fort Hood           ,TX,Texas                    ,76544,Education           ,E
+9,Greate Bay Casino Corporation De                  ,N/A       ,Dept #242 ,4255 Depart Lane                                  ,Randolph Air Force B,TX,Texas                    ,78148,US Govt             ,F
+19,Camera Platforms International Incorporated       ,N/A       ,N/A       ,5347 Deposed Street                               ,Houston             ,TX,Texas                    ,77244,State/Local Gov     ,S
+3,Beckman Coulter Incorporated                      ,N/A       ,N/A       ,5841 Pervades Drive                               ,Fairfax             ,VA,Virginia                 ,22035,Education           ,E
+33,Polymer Group Incorporated                        ,Suite 204 ,N/A       ,11368 Harder Drive                                ,Maidstone           ,VT,Vermont                  ,05905,Commercial          ,C
+20,Labor Ready Incorporated                          ,N/A       ,Dept #759 ,4618 Days Drive                                   ,Waterville          ,WA,Washington               ,98858,US Govt             ,F
+29,Usx-steel Group Incorporated                      ,N/A       ,N/A       ,7120 Whimsically Turnpike                         ,Olympia             ,WA,Washington               ,98501,State/Local Gov     ,S
+24,Helpmate Robotics Incorporated                    ,Suite 213 ,N/A       ,9711 Writers Turnpike                             ,Saint Cloud         ,WI,Wisconsin                ,53079,Education           ,E
+23,Ligand Pharmaceuticals Incorporated               ,N/A       ,N/A       ,8092 Bluest Street                                ,Moorcroft           ,WY,Wyoming                  ,82721,US Govt             ,F

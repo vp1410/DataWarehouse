@@ -1,0 +1,4 @@
+supplierID,SupplierName,attn,addr1,SupplierCity,SupplierZip,StateName,Code,division
+11,The Product Company (East),N/A,20021 Barnes Road, Stratford, 13470,New York,NY,1
+12,The Product Company (West),N/A,21 E BullaRoad Avenue,Fresno,93710,California,CA,1
+13,Processing Equipment Corporation,N/A,29843 Klingon Road,Naperville,60563,Illinois,IL,1
